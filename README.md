@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## HAPPY BIRTHDAY MY LOVE 
 
-You can use the [editor on GitHub](https://github.com/mohammedghazali/mohammedghazali.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I love you so so much and thank you for making me the happiest man in the world each and every day. I thought as we move to Arizona, a fun, amazing way to immortalize your time in the Bay would be with this scrapbook :) Both physical and electronic!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### A BIRTHDAY SURPRISE (the tiktok montage)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### ANOTHER BIRTHDAY SURPRISE (if possible) - the birthday footage
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
+Figure out how to embed here
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mohammedghazali/mohammedghazali.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### P.S.
+I'm still working to add ALL of the pages to this electronic version so please be patient :) 
