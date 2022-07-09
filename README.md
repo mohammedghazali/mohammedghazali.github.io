@@ -1,3 +1,5 @@
+## Overwritten now by CSS and HTML
+
 ## HAPPY BIRTHDAY MY LOVE 
 
 I love you so so much and thank you for making me the happiest man in the world each and every day. I thought as we move to Arizona, a fun, amazing way to immortalize your time in the Bay would be with this scrapbook :) Both physical and electronic!
