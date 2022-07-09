@@ -27,7 +27,7 @@ body {
 
 .project-content {
     display: inline-block;
-    text-align: left;
+    text-align: center;
     vertical-align: top;
     margin: 45px 50px 50px 50px;
 }
