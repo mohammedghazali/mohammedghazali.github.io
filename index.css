@@ -29,12 +29,12 @@ body {
     display: inline-block;
     text-align: center;
     vertical-align: top;
-    margin: 45px 50px 50px 50px;
+    margin: 50px 50px 50px 50px;
 }
 
 .project-thumbnail {
     display: inline-block;
-    height: 256px;
+    height: 512px;
     border: 2px solid lightgray;
 }
 
