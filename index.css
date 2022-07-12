@@ -34,7 +34,7 @@ body {
 
 .project-thumbnail {
     display: inline-block;
-    height: 20%;
+    height: 400px;
     border: 2px solid lightgray;
 }
 
